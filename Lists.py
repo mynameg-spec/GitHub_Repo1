@@ -87,6 +87,7 @@ numbers.sort()  # sorts and overrides the list
 
 numbers=(4,1,3,2)
 mylist=list(numbers)
+print(mylist)
 
 
 
