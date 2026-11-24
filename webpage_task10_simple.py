@@ -1,5 +1,4 @@
 # Task - 10
-# Simple beginner-level Selenium script
 # What this code does:
 #   1. Opens https://www.saucedemo.com/
 #   2. Logs in using username and password
